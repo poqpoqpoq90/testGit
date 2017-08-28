@@ -6,7 +6,7 @@ package com.example.demo;
 public class A {
 
     public void cao(){
-        int i=+2;
+        int i=+3;
 
 
     }
